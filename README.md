@@ -1,4 +1,4 @@
-snap-module-combinerer
+snap-module-combiner
 ======================
 
 Combines two Snap! block modules into one module
